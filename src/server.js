@@ -1,12 +1,12 @@
 /*********************************************************************************
- * WEB322 – Assignment 02
- * I declare that this assignment is my own work in accordance with Seneca Academic Policy.
- * No part of this assignment has been copied manually or electronically from any other source
- * (including web sites) or distributed to other students.
+ * WEB322 – Assignment 06
+ * I declare that this assignment is my own work in accordance with Seneca Academic Policy. No part of this
+ * assignment has been copied manually or electronically from any other source (including web sites) or
+ * distributed to other students.
  *
- * Name: Misato Endo      Student ID: 158516195     Date: 2021/10/10
+ * Name: Misato Endo      Student ID: 158516195     Date: 2021/12/10
  *
- * Online (Heroku) URL: https://aqueous-refuge-30289.herokuapp.com/
+ * Online (Heroku) URL: https://web322-app-misaed.herokuapp.com/
  *
  ********************************************************************************/
 

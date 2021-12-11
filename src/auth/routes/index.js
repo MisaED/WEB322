@@ -44,6 +44,16 @@ router.get("/register", (req, res) => {
   res.status(200).render("register");
 });
 
+router.get("/userHistory", (req, res) => {
+  res.status(200).render("userHistory");
+});
+
+router.post("/logout", (req, res) => {
+  req.session.destroy()
+    .then(() => res.status(200).redirect("/"))
+    .catch(err => res.status(400).redirect("/"))
+})
+
 // router.post('/', blogController.blog_create_post);
 // router.get('/:id', blogController.blog_details);
 // router.delete('/:id', blogController.blog_delete);
